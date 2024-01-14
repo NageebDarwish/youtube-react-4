@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.f-cairo {
+  font-family: "Cairo", sans-serif !important;
+}

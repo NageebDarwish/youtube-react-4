@@ -1,0 +1,11 @@
+.table-shadow {
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+table th {
+  background-color: #362f4b !important ;
+  padding: 5px 0 5px 20px !important;
+}
+table tr td {
+  padding: 15px 20px !important;
+}
